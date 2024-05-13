@@ -2,6 +2,6 @@
 
 Formação de especialista em Back-end da Alura juntamente com a Oracle.
 
-Aplicação java que permite que o usuário converta valores entre difernetes moedas através de uma API.
+Aplicação java que permite que o usuário converta valores entre diferentes moedas através de uma API.
 
 Tecnologias: java, gson e Exchange Rate API (oferece dados da taxa de câmbio em tempo real).
